@@ -1,0 +1,36 @@
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.csproj.AssemblyReference.cache
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.LoginForm.resources
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.Properties.Resources.resources
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.csproj.GenerateResource.cache
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.csproj.CoreCompileInputs.cache
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.RegistrationForm.resources
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.AdminForm.resources
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.ConsultantForm.resources
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.ClientForm.resources
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\bin\Debug\FurnitureApp.exe.config
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\bin\Debug\FurnitureApp.exe
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\bin\Debug\FurnitureApp.pdb
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\bin\Debug\MySql.Data.dll
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\obj\Debug\Furnitur.1C2386F5.Up2Date
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.exe
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.pdb
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.AddOrderForm.resources
+D:\Новая папка (2)\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.EditOrderForm.resources
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.csproj.AssemblyReference.cache
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.AddOrderForm.resources
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.AdminForm.resources
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.ClientForm.resources
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.ConsultantForm.resources
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.EditOrderForm.resources
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.RegistrationForm.resources
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.LoginForm.resources
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.Properties.Resources.resources
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.csproj.GenerateResource.cache
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.csproj.CoreCompileInputs.cache
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.exe
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.pdb
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\bin\Debug\FurnitureApp.exe.config
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\bin\Debug\FurnitureApp.exe
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\bin\Debug\FurnitureApp.pdb
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\Furnitur.1C2386F5.Up2Date
+C:\Users\artem sapojnikov\Downloads\mra-main\mra-main\FurnitureApp\FurnitureApp\obj\Debug\FurnitureApp.EditUserForm1.resources
